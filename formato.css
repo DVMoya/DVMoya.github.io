@@ -14,8 +14,7 @@ h1 {color:green;}
 #titles
 		.t1 h1 {
 			color:blue;
-			background-color:gray;
-		}
+			background-color:gray;}
 		.t2 h2 {background-color:light-blue}
 	}
 .azul {color:blue;}
