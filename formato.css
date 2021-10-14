@@ -2,11 +2,20 @@ h1 {color:green;}
 
 #rojo {color:red;}
 
-#bold .boldy1 b {
-		color:purple;}
-#bold .boldy2 b {
-		color:brown;}
-#bold .boldy3 b {
-		color:gray;}
+#bold
+		.boldy1 b {
+			color:purple;}
+		.boldy2 b {
+			color:brown;}
+		.boldy3 b {
+			color:gray;}
+	}
 
+#titles
+		.t1 h1 {
+			color:blue;
+			background-color:gray;
+		}
+		.t2 {background-color:light-blue}
+	}
 .azul {color:blue;}
